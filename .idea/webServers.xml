@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f764cd5-125f-44e1-9810-fa8e0958322a" name="Thales CCTMKT" url="http://ftp.thalesandrade.com">
+        <fileTransfer host="ftp.thalesandrade.com" port="21" rootFolder="/cctmkt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

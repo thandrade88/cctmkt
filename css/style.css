@@ -1,0 +1,31 @@
+.main-page {
+    margin: 100px auto;
+}
+
+.custom-file-label {
+    overflow: hidden;
+}
+
+.card-img-top {
+    max-height: 230px;
+    max-width: 100%;
+    width: auto;
+    margin: 0 auto;
+}
+
+.input-group-text,
+.input-group-text:hover {
+    cursor: pointer;
+    color: #000000;
+    text-decoration: none;
+}
+
+.big-photo img {
+    width: 100%;
+}
+
+.go-back,
+.go-back:hover {
+    color: #000000 ;
+    font-size: 30px;
+}
