@@ -7,7 +7,7 @@
  */
 
 function db_connect() {
-	$con = new PDO("mysql:host=localhost;dbname=alexand_cctmkt", "alexand_cctmkt", "123mudar");
+	$con = new PDO("mysql:host=localhost;dbname=cct_mkt", "root", "");
 	return $con;
 }
 
